@@ -1,6 +1,6 @@
-Hello, I’m @Sam-Bowden
+Hello, I’m @Sam-Bowden - I'm currently a computer science student at the University of Leicester.
 
-I'm currently a computer science student at university. I use this account to work on a few projects to gain software engineering experience in my spare time.
+My goal with this account is to improve my software development skills by creating tools that benefit myself and hopefully others.
 
 Email: samuel.bowden1@protonmail.com
 
