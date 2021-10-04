@@ -1,4 +1,4 @@
-Hello, I’m @Sam-Bowden - I'm currently a computer science student at the University of Leicester.
+Hello, I’m @Sam-Bowden. I'm currently a computer science student at the University of Leicester.
 
 My goal with this account is to improve my software development skills by creating tools that benefit myself and hopefully others.
 
