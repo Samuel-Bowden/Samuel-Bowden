@@ -1,6 +1,6 @@
 Hello, I’m @Sam-Bowden
 
-I'm currently a computer science student at university. I use this account to work on a few projects to gain software engineering experience.
+I'm currently a computer science student at university. I use this account to work on a few projects to gain software engineering experience in my spare time.
 
 Email: samuel.bowden1@protonmail.com
 
