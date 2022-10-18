@@ -1,8 +1,9 @@
-Hello, I’m @Sam-Bowden. I'm currently a computer science student at the University of Leicester.
+Hey, I'm Sam Bowden. I'm currently a 3rd year computer science student at the University of Leicester.
 
-My goal with this account is to improve my software development skills by creating tools that benefit myself and hopefully others.
+You'll find the source code of some of the projects that I've worked on in my spare time here.
 
-Email: samuel.bowden1@protonmail.com
+I use SourceHut now and I'm not developing my personal projects on this GitHub profile anymore. You can find my new SourceHut profile here: 
+<https://sr.ht/~sam-bowden/>
 
 <!---
 Sam-Bowden/Sam-Bowden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
