@@ -1,6 +1,21 @@
-Hey, I'm Sam Bowden. I'm currently a 3rd year computer science student at the University of Leicester.
+I'm currently a 3rd year computer science student at the University of Leicester. I'm passionate about FOSS, Linux and programming language theory. For my final year project at university, I'm developing an interpreter in Rust for a novel scripting language, Zonkey. 
 
-You'll find the source code of some of the projects that I've worked on in my spare time here. I also use [Codeberg](https://codeberg.org/Sam-Bowden).
+Check out my website:
+https://sambowden.rocks
+
+Profficient Languages:
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85.svg?style=for-the-badge&logo=Haskell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Bowden&layout=compact&theme=cobalt&hide_border=true" />
 
 <!---
 Sam-Bowden/Sam-Bowden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
