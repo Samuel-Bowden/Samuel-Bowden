@@ -1,9 +1,12 @@
-I'm currently a 3rd year computer science student at the University of Leicester. I'm passionate about FOSS, Linux and programming language theory. For my final year project at university, I'm developing an interpreter in Rust for a novel scripting language, Zonkey. 
+Hello, I'm currently a 3rd year computer science student at the University of Leicester. I'm passionate about FOSS, Linux and programming language theory. For my final year project at university, I'm developing an interpreter in Rust for a novel scripting language, Zonkey. 
 
 Check out my website:
 https://samuelbowden.com
 
-Profficient Languages:
+Feel free to contact me at:
+[mail@samuelbowden.com](mailto:mail@samuelbowden.com)
+
+Skills:
 <p>
   <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Haskell-5D4F85.svg?style=for-the-badge&logo=Haskell&logoColor=white" />
