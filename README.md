@@ -15,9 +15,4 @@ Profficient Languages:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Bowden&layout=compact&theme=cobalt&hide_border=true" />
-
-<!---
-Sam-Bowden/Sam-Bowden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Bowden&layout=compact&theme=cobalt&hide_border=true" />
