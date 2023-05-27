@@ -1,7 +1,7 @@
 I'm currently a 3rd year computer science student at the University of Leicester. I'm passionate about FOSS, Linux and programming language theory. For my final year project at university, I'm developing an interpreter in Rust for a novel scripting language, Zonkey. 
 
 Check out my website:
-https://sambowden.rocks
+https://samuelbowden.com
 
 Profficient Languages:
 <p>
